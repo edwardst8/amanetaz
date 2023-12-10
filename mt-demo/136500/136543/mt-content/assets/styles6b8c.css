@@ -2657,7 +2657,7 @@
 .moto-text_system_2 {
   font-weight: 400;
   font-style: normal;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Didact Gothic', sans-serif;
   color: #ffffff;
   font-size: 14px;
   line-height: 1.2;
@@ -2691,7 +2691,7 @@
 .moto-widget-text ol li.moto-text_system_2:before {
   top: 50%;
   transform: translate(0,-50%);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Didact Gothic', sans-serif;
   content: counter(moto-counter,decimal-leading-zero) "";
   border-style: none;
   border-left-width: 0px;
@@ -2794,7 +2794,7 @@
 .moto-widget-text ol li.moto-text_system_1:before {
   top: 50%;
   transform: translate(0,-50%);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Didact Gothic', sans-serif;
   content: counter(moto-counter,decimal-leading-zero) "";
   border-style: none;
   border-left-width: 0px;
